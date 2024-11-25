@@ -1,4 +1,4 @@
-# **Smart Code Auditor** ⚙️  
+# **Smart Code Reviewer** ⚙️  
 
 An AI-powered Python code reviewer that detects bugs, suggests optimizations, and ensures coding best practices. Built with Streamlit and Google Generative AI, this tool saves time and enhances productivity for developers.  
 
