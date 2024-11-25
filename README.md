@@ -12,9 +12,13 @@ An AI-powered Python code reviewer that detects bugs, suggests optimizations, an
 
 ---
 
-## **Installation**  
+## How to Use
+- Open the application in your browser after running it.
+- Paste your Python code into the text area.
+- Click Analyze Code to generate a bug report and feedback.
 
-### **Step 1: Clone the Repository**  
-```bash  
-git clone https://github.com/your-username/smart-code-auditor.git  
-cd smart-code-auditor  
+---
+
+## Acknowledgments
+- Built by Jay Paneliya.
+- Powered by Google Generative AI and Streamlit.
