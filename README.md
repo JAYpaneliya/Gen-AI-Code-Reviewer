@@ -1,2 +1,2 @@
-# Gen-AI-Code-Reviewer
- Smart Code Auditor ⚙️ is an AI-driven Python code reviewer designed to detect bugs, provide optimization tips, and enhance code quality. Built with Streamlit and powered by Google Generative AI, it offers a user-friendly interface for efficient and automated code analysis, saving time and improving development workflows.
+Smart Code Auditor ⚙️
+An AI-powered Python code reviewer that provides in-depth feedback on your code. This app analyzes Python scripts for potential bugs, optimization opportunities, and coding best practices, helping you enhance your development workflow.
